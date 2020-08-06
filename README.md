@@ -1,1 +1,4 @@
 # Segmentation-and-Clustering
+This project will give the comparison between both the cities and if anyone want to go for a tour between the two cities, then he/she can visit the popular places in respective neighborhood using the Foursquare API. The map will map the objective of this project is to analyze different popular venues in both the cities using the machine learning. Segmenting and Clustering is applied for different venues in both the cities.ke visible popular places in both the cities.
+
+This project will be useful for the people who want to visit these two cities. The popular places in the cities to visit. This project can be useful for companies who deals in tour packages for people. Popular travel and booking websites can use the information from the project for recommendation of different places in these cities.
